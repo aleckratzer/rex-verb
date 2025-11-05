@@ -1,2 +1,2 @@
 # rex-verb
-Documenting Reverb Pedal Project
+Characterization and oscilloscope analysis of a Belton Brick reverb pedal
